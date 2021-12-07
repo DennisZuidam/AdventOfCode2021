@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Acvent of Code 2021!");
 
-var currentDay = "04";
+var currentDay = "06";
 CalculateOutput(currentDay);
 
 static void CalculateOutput(string daynumber)
